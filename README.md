@@ -44,3 +44,9 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 ## Screenshot
 
 <img src="./public/images/OF-ReactPortfolio.png" alt="ReactPortfolioScreenshot">
+
+## Github Repo
+
+https://github.com/Onelle11/OF-Portfolio
+
+## Deployed
