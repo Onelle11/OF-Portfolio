@@ -95,6 +95,57 @@ export default function Blog() {
                 </div>
             </div>
         </div>
+
+        <div class="FEP">
+
+            <div class="imgANDdesc">
+                
+                <div class="project1">
+                   <img src={ require("./images/TS-dash.png" )} alt="Tiny Squares"></img>
+                </div>
+            </div>
+
+            <div class="imgANDdesc">
+                
+                <div class="project1Desc">
+                    <p> <span class="one"> Featured project </span></p>
+                    
+                    <h1> Tiny Squares </h1>
+
+                    <div class="project1Box">
+                        Your ultimate destination for personalized lifestyle journals. Track sports, health, and 
+                        mindfulness effortlessly. Contains visually appealing pixel calendar design that gives a 
+                        year-long overview of your process. Dive deeper with statistics and pie charts for 
+                        insightful data representation.
+                    </div>
+
+                    <div class="projectCodes">
+
+                        <div class="projCode">
+                            <div class="pCode"> VS Code </div>
+                            <div class="pCode"> React </div>
+                            <div class="pCode"> JavaScript </div>
+                            <div class="pCode"> Node JS </div>
+                        </div>
+
+                        <div class="projCode">
+                            <div class="pCode"> Heroku </div>
+                            <div class="pCode"> Express </div>
+                        </div>
+
+                        <div class="projCode">
+                            <p> <a href="https://github.com/jason1chiu/tiny-squares"><i class="fa-brands fa-github fa-xl"></i> </a></p>
+                            <p> <a href="https://tinysquares.herokuapp.com/"><i class="fa-solid fa-arrow-up-right-from-square fa-lg" style= {{ color: "#E7E8E8;" }}></i></a></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+
+
+
     </section>
 
     <section class="Projects-1" id="Projects-1">

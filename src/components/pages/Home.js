@@ -33,7 +33,7 @@ export default function Home() {
             
             <div class="contactDesc-1">
             <h2> I'm always looking for new opportunities, and my inbox is always open. Shoot me an email and let's talk about
-                any opportunitiesor work 😊 Thank you! </h2>
+                any opportunities or work 😊 Thank you! </h2>
             </div>
 
         </div>
